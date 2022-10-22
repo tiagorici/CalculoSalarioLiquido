@@ -17,6 +17,10 @@
 		{
 			"valor": "7087.22",
 			"aliquota": "14.00"
+		},
+		{
+			"valor": "TETO",
+			"aliquota": "828.39"
 		}
 	]
 }
