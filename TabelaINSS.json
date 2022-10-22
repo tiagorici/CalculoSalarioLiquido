@@ -3,20 +3,20 @@
 	"tabela_2022":
 	[
 		{
-			"aliquota": "7.50",
-			"valor": "1212.00"
+			"valor": "1212.00",
+			"aliquota": "7.50"
 		},
 		{
-			"aliquota": "9.00",
-			"valor": "2427.35"
+			"valor": "2427.35",
+			"aliquota": "9.00"
 		},
 		{
-			"aliquota": "12.00",
-			"valor": "3641.03"
+			"valor": "3641.03",
+			"aliquota": "12.00"
 		},
 		{
-			"aliquota": "14.00",
-			"valor": "7087.22"
+			"valor": "7087.22",
+			"aliquota": "14.00"
 		}
 	]
 }
