@@ -22,5 +22,28 @@
 			"valor": "7087.23",
 			"aliquota": "828.39"
 		}
+	],
+	"tabela_2023":
+	[
+		{
+			"valor": "00.00",
+			"aliquota": "0"
+		},
+		{
+			"valor": "00.00",
+			"aliquota": "0"
+		},
+		{
+			"valor": "00.00",
+			"aliquota": "0"
+		},
+		{
+			"valor": "00.00",
+			"aliquota": "0"
+		},
+		{
+			"valor": "00.00",
+			"aliquota": "00.00"
+		}
 	]
 }
