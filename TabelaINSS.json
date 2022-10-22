@@ -1,0 +1,22 @@
+{
+	"tipo": "INSS",
+	"tabela_2022":
+	[
+		{
+			"aliquota": 7.5,
+			"valor": 1212.0
+		},
+		{
+			"aliquota": 9,
+			"valor": 2427.35
+		},
+		{
+			"aliquota": 12,
+			"valor": 3641.03
+		},
+		{
+			"aliquota": 14,
+			"valor": 7087.22
+		}
+	]
+}
