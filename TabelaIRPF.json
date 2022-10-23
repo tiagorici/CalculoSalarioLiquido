@@ -3,29 +3,29 @@
 	"tabela_2022":
 	[
 		{
-			"salario": "1903.98",
-			"desconto": "0",
-			"dedutivel": "0"
+			"salario": 1903.98,
+			"desconto": 0,
+			"dedutivel": 0
 		},
 		{
-			"salario": "2826.65",
-			"desconto": "7.50",
-			"dedutivel": "142.80"
+			"salario": 2826.65,
+			"desconto": 7.5,
+			"dedutivel": 142.80
 		},
 		{
-			"salario": "3751.05",
-			"desconto": "15",
-			"dedutivel": "354.80"
+			"salario": 3751.05,
+			"desconto": 15,
+			"dedutivel": 354.80
 		},
 		{
-			"salario": "4664.68",
-			"desconto": "22.50",
-			"dedutivel": "636.13"
+			"salario": 4664.68,
+			"desconto": 22.5,
+			"dedutivel": 636.13
 		},
 		{
-			"salario": "4664.69",
-			"desconto": "27.50",
-			"dedutivel": "869.36"
+			"salario": 4664.69,
+			"desconto": 27.5,
+			"dedutivel": 869.36
 		}
 	]
 }
