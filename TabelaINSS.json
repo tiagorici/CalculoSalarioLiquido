@@ -3,47 +3,24 @@
 	"tabela_2022":
 	[
 		{
-			"valor": "1212.00",
-			"aliquota": "7.50"
+			"valor": 1212.00,
+			"aliquota": 7.5
 		},
 		{
-			"valor": "2427.35",
-			"aliquota": "9.00"
+			"valor": 2427.35,
+			"aliquota": 9
 		},
 		{
-			"valor": "3641.03",
-			"aliquota": "12.00"
+			"valor": 3641.03,
+			"aliquota": 12
 		},
 		{
-			"valor": "7087.22",
-			"aliquota": "14.00"
+			"valor": 7087.22,
+			"aliquota": 14
 		},
 		{
-			"valor": "7087.23",
-			"aliquota": "828.39"
-		}
-	],
-	"tabela_2023":
-	[
-		{
-			"valor": "00.00",
-			"aliquota": "0"
-		},
-		{
-			"valor": "00.00",
-			"aliquota": "0"
-		},
-		{
-			"valor": "00.00",
-			"aliquota": "0"
-		},
-		{
-			"valor": "00.00",
-			"aliquota": "0"
-		},
-		{
-			"valor": "00.00",
-			"aliquota": "00.00"
+			"valor": 7087.23,
+			"aliquota": 828.39
 		}
 	]
 }
